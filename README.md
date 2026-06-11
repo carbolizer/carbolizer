@@ -5,8 +5,8 @@
 I am a highly motivated developer focused on building secure, scalable software and expanding my technical toolkit. My focus is on cloud architecture, security, and hardware optimization, bridging the gap between low-level performance and high-level applications.
 
 📫 **Email:** [cacoleman135@gmail.com]
-🔗 **LinkedIn:** [https://www.linkedin.com/in/carl-coleman/]
-🤝 **Handshake:** [https://app.joinhandshake.com/profiles/cac135]
+🔗 **LinkedIn:** [View My LinkedIn](https://www.linkedin.com/in/carl-coleman/)
+🤝 **Handshake:** [View My Handshake](https://app.joinhandshake.com/profiles/cac135)
 📄 **Resume:** [View My Rsume](Carl_Coleman_Resume.pdf)
 
 ---
