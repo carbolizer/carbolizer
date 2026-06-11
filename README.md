@@ -7,7 +7,7 @@ I am a highly motivated developer focused on building secure, scalable software 
 📫 **Email:** [cacoleman135@gmail.com]
 🔗 **LinkedIn:** [https://www.linkedin.com/in/carl-coleman/]
 🤝 **Handshake:** [https://app.joinhandshake.com/profiles/cac135]
-📄 **Resume:** [Link to your resume]
+📄 **Resume:** [View My Rsume](Carl_Coleman_Resume.pdf)
 
 ---
 
