@@ -35,9 +35,8 @@ A short list of the repos that best represent my work in software engineering, s
 
 | Area | Project | Stack | What it shows |
 | :--- | :--- | :--- | :--- |
-| **Privacy & Systems** | [Privacy-Dots-V2](Link to repo) | Linux, MQTT | Integration of motion sensor data and database tables for a privacy-focused status bar module. |
-| **Game Development** | [3D Puzzle Game](Link to repo) | Unity, C# | Collaborative agile development, 3D environment logic, and creative problem-solving. |
-| **Algorithms** | [Algorithm Portfolio](Link to repo) | Java, Python | Implementation of binary search trees, matrix operations, and Two Sum logic. |
+| **Privacy & Systems** | [Privacy-Dots-V2](https://github.com/devi-walto/Privacy-Dots-V2) | Linux, MQTT | Integration of motion sensor data and database tables for a privacy-focused status bar module. |
+| **Game Development** | [3D Puzzle Game](https://github.com/outcastedplayer/CSC477-HauntedMansionProject) | Unity, C# | Collaborative agile development, 3D environment logic, and creative problem-solving. |
 
 ---
 
